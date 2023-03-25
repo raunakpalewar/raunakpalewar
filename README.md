@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raunakpalewar
-- 👀 I’m interested in ... programming and deleloping software using coding and algorithms
-- 🌱 I’m currently learning ... advanced java
+- 👀 I’m interested in ... programming and developing software & Applications
+- 🌱 I’m currently learning ... React and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... raunakpalewar9979@gmail.com
 
